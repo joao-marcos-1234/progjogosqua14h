@@ -1,11 +1,11 @@
-# progjogosqua14h
+ # progjogosqua14h
 ## Projeto Programação de jogos modulo 2
-###nome do projeto
+ ###nome do projeto
 projeto do joão
-###objetivo
+ ###objetivo
 fazer um novo jogo usando C#
-###tecnologias utilizadas
+ ###tecnologias utilizadas
 github
 C#
-###proximos passos
+ ###proximos passos
 fazer o jogo
