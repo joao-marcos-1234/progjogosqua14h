@@ -5,7 +5,7 @@ projeto do joão
 ### objetivo
 fazer um novo jogo usando C#
 ### tecnologias utilizadas
-gthub
+github
 C#
 ### proximos passos
 fazer o jogo
