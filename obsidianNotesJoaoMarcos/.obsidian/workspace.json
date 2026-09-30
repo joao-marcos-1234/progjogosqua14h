@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProgJogosAulas/github.md",
+                "file": "Projeto/Wacky Grapling.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github"
+              "title": "Wacky Grapling"
             }
           }
         ],
@@ -205,8 +205,8 @@
   },
   "active": "e9b570257805829d",
   "lastOpenFiles": [
-    "Projeto/Wacky Grapling.md",
     "ProgJogosAulas/github.md",
+    "Projeto/Wacky Grapling.md",
     "Projeto.md",
     "Projeto",
     "ProgJogosAulas",
