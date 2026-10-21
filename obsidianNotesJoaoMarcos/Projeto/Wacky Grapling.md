@@ -8,3 +8,30 @@ Você tem um grapling hook e como ele funciona muda dependendo do nivel em que v
 GHook.INC esta testando seus produtos e você foi escolhido para testar produtos deles. Se você testar X numeros de grapling hooks você vai ser pago. Porem os testes que GHook.INC fazem são camaras de obstaculo porem você realmente precisa do dinheiro.
 # objetivo
 testar todos os produtos de GHook.INC e ser pago
+# controles
+ASD -> andar
+W -> porta
+M1 -> graple
+# elementos
+## player
+oque o jogador controla
+## graple hook
+mecanica principal, o player vai onde voce atira
+## espinho
+faz voce perder
+## parede não grapleavel
+auto-explicativo
+## balanço
+faz o player balançar quando grapleado
+## porta
+avança a fase
+## parede fantasma
+parede não grapleavel que o player pode atravessar
+# graple hooks
+## normal
+sem gimmiks
+## invertido
+o player vai para traz inves do graple ir para frente
+## gravidade
+ o graple faz um arco ao inves de uma  linha
+##
