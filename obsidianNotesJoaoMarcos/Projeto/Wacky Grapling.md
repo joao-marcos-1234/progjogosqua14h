@@ -34,4 +34,14 @@ sem gimmiks
 o player vai para traz inves do graple ir para frente
 ## gravidade
  o graple faz um arco ao inves de uma  linha
-##
+# godot
+## player
+o jogador vai controlar ele e não pode pular
+## grapple hook
+macanica principal o jogador é levado para onde ele atira
+## plataformas
+auto explicativo
+## objetivo
+chegar no final da fase
+## cenario
+camaras de teste tipo portal
